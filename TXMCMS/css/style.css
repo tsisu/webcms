@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body {	font-family: "宋体";font-size: 12px;color:#000000;line-height: 20px;text-align:left;}
+td,th {font-family: "宋体";font-size: 12px;color: #000000;}
+a {color: #000000;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+A:hover {TEXT-DECORATION-color: #ffffff;}
+nav,li{list-style-type:none;}
+.clearit{clear:both;}
+
+.logo{float:right;width:300px;margin-right:300px;}
+.lo1{float:left;}
+.lo2{float:left;margin-left:10px;}
+.lo3{float:left;margin-left:10px;}
+.lo4{float:left;margin-left:10px;}
+.glyphicon-off{float: right; font-size: 32px;}
+.biaoti{width:300px;margin:0 auto;}
+.biaoti h1{color:#330808;font-size:36px;text-align:center;line-height:100px;}
+.daohang nav{margin:0 auto;width:1200px;}
+.daohang nav li{width:240px;float:left;line-height:56px;text-align:center;}
+.daohang nav li a{font-size:16px;color:#FFFFFF;height:56px;display:block;width:240px;}
+/* .daohang nav li a:hover{ background-color:#d93949;color:#000000;} */
+.daohang{ background-color:#46080e;height:56px;}
+.logo p{color:#6f1b1b; font-size:14px;line-height:30px;}
+.rose p{color:#6f1b1b; font-size:16px;line-height:30px;text-align:center;}
+.dingbu{height:30px; background-color:#eaeaea;}
+.banner{margin:0 auto;width:1000px;margin-top:20px;}
+.zuo{float:left; width:288px;}
+.zhong{float:left; width:288px;margin-left:70px;}
+.you{float:right; width:288px;}
+.tupian{margin:0 auto;width:1000px;margin-top:50px;}
+.tu3{float:left;width:288px; border-bottom : 1px solid #100f0d;border-left : 1px solid #100f0d;border-right : 1px solid #100f0d;height:50px;}
+.tu4{float:left;width:288px; margin-left:70px;height:50px;border-bottom : 1px solid #100f0d;border-left : 1px solid #100f0d;border-right : 1px solid #100f0d;}
+.tu5{float:right;width:288px;height:50px;border-bottom :1px solid #100f0d;border-left : 1px solid #100f0d;border-right : 1px solid #100f0d;}
+.piantu{margin:0 auto;width:1000px;}
+.tu3 h2{text-align:center;line-height:50px;}
+.tu4 h2{text-align:center;line-height:50px;}
+.tu5 h2{text-align:center;line-height:50px;}
+.dibu{background-color:#46080e;height:30px;margin-top:50px;}
+.dibu p{ color:#FFFFFF;text-align:center;line-height:30px;}
+.tu25{float:left;margin-top:50px;margin-left:20px;}
+.tu26{float:right;margin-top:50px;margin-right:20px;}
+.zhuye{margin:0 auto;width:1000px;}
